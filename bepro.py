@@ -100,7 +100,7 @@ def bosh(update,context):
 def ruyhat(update,context):
     update.message.reply_html('<a href="https://beproedu.uz/nabor-na-kursy-v-bepro-it-academy/">Ushbu link orqali ro\'yhatdan o\'tishingiz mumkin!</a>', reply_markup=sungi)
 
-updater = Updater('1693494852:AAGFfv6rhqFTBEpc1lilf4ianaKl-9NyURU')
+updater = Updater('token')
 
 #handler
 conv_handler = ConversationHandler(entry_points =[CommandHandler('start', start)],
