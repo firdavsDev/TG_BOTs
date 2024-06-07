@@ -1,9 +1,9 @@
 # TG_BOTs
-Telegram botlar codlarim (Python) Open source
- telegram: @firdavs_dev
+Telegram botlar kodlarim (Python) Open source
+ telegram: https://t.me/firdavs_dev
 
 
-tg kannallar :
+## Tg kannallar : </br>
 https://t.me/pythonbooks </br>
 https://t.me/uz_python </br>
 https://t.me/pythonrabota
@@ -17,4 +17,4 @@ https://t.me/uzpythonlogs </br>
 https://t.me/virtualdars </br>
 
 Follow US! </br>
-https://t.me/itpro_uzb </br>
+https://t.me/davron_coder </br>
